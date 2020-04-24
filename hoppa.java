@@ -1,0 +1,1 @@
+bakalim nasil olacak
