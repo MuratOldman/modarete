@@ -1,5 +1,5 @@
 //bakalim nasil olacak
-pacgace modarete;
+package  modarete;
 public class hoppa  {
 public static void main (String []args){
 int x=5;
